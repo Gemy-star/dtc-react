@@ -1,7 +1,7 @@
 {
   "name": "shop",
   "version": "0.1.0",
-  "homepage": "https://Gemy-star.github.io/dtc_react",
+  "homepage": "https://Gemy-star.github.io/ReactAPP",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
